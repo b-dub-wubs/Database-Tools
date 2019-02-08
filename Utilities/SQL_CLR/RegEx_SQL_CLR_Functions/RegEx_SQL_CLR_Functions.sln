@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RegEx_SQL_CLR_Functions", "RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions.sqlproj", "{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Debug|x64.ActiveCfg = Debug|x64
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Debug|x64.Build.0 = Debug|x64
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Debug|x64.Deploy.0 = Debug|x64
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Release|x64.ActiveCfg = Release|x64
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Release|x64.Build.0 = Release|x64
+		{B7B29F5B-15D0-4300-BD61-6F0EE4411EF1}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA11DA97-CEEE-4385-B5D1-8B89D0FE5AA3}
+	EndGlobalSection
+EndGlobal

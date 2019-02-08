@@ -1,0 +1,10 @@
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\bin\Debug\RegEx_SQL_CLR_Functions.dacpac
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\bin\Debug\RegEx_SQL_CLR_Functions.dll
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\bin\Debug\RegEx_SQL_CLR_Functions.pdb
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\Model.xml
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\refactor.xml
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\postdeploy.sql
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\predeploy.sql
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\RegEx_SQL_CLR_Functions.dll
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\RegEx_SQL_CLR_Functions.pdb
+C:\Users\bwarner\source\repos\Analytics\Common\RegEx_SQL_CLR_Functions\RegEx_SQL_CLR_Functions\obj\x64\Debug\RegEx_SQL_CLR_Functions.sqlprojAssemblyReference.cache
